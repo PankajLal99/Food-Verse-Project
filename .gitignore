@@ -1,3 +1,8 @@
 /foodversebackend/._*
 /foodversebackend/foodversebackend/._*
+
+foodversebackend/__pycache__/*
+foodversebackend/foodversebackend/__pycache__/*
+
 ._foodversebackend
+
