@@ -5,6 +5,7 @@ foodversebackend/__pycache__/*
 foodversebackend/foodversebackend/__pycache__/*
 foodversebackend/api/__pycache__/*
 foodversebackend/api/migrations/__pycache__/*
+foodversebackend/api/migrations/._*
 
 ._foodversebackend
 
